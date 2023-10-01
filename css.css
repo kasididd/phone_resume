@@ -1,0 +1,13 @@
+/* เข้่าถึงสิ่งที่มึงต้องการจะใส่ ลักษณะของมัน */
+.test1{
+color: red;
+background-color: plum;
+max-width: fit-content;
+padding: 20px;
+}
+.test2{
+color: red;
+background-color: plum;
+max-width: fit-content;
+/* padding: 20px; */
+}
